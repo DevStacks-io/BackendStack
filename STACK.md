@@ -1,21 +1,18 @@
-# Mobile Stack – Component Breakdown 📱
+# Backend Stack – Component Breakdown 🏢
 
-DevStacks' modern mobile toolkit, supporting native and cross-platform development.
+DevStacks’ scalable microservices + enterprise backend stack.
 
-## 📲 Languages
+## 🧱 Core Languages
 
 | Language | Repo |
 |----------|------|
-| DUI      | *(Dart)* [Planned] |
-| DSwift   | *(Swift)* [Planned] |
-| DKTX     | *(Kotlin)* [Planned] |
+| DVM      | *(Java)* [Planned] |
+| DCSharp  | *(C#/.NET)* [Planned] |
+| DGo      | *(Go)* [Planned] |
 
-## 🌈 UI Framework
+## 🔩 Frameworks & Build Tools
 
-| Tool      | Description |
-|-----------|-------------|
-| DFlutter  | Cross-platform mobile UI framework (Flutter alternative) |
+- DSpring (Spring Boot clone)
+- DMaven / DGradle
 
-## 🔗 Run Everything with DLangSDK
-
-[DLangSDK](https://github.com/DevStacks-io/DLangSDK) supports launching mobile compilers.
+## 🔗 Unified CLI via [DLangSDK](https://github.com/DevStacks-io/DLangSDK)
